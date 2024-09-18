@@ -1,2 +1,1 @@
-mysql:8.4.2
-rabbitmq:3-management-alpine
+nacos:2.2.3
