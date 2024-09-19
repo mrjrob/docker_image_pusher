@@ -1,1 +1,1 @@
-redis:6.0.20
+openjdk:8
