@@ -1,1 +1,1 @@
-franklin5/lanproxy-client:latest
+emqttd:2.3.6
