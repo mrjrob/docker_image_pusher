@@ -1,1 +1,2 @@
-emqx/emqx:latest
+apache/skywalking-oap-server:latest
+apache/skywalking-ui:latest
