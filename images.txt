@@ -1,1 +1,1 @@
-openjdk:17
+canal/canal-server:v1.1.7
