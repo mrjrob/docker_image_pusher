@@ -1,1 +1,1 @@
-franklin5/lanproxy-server:latest
+gitlab/gitlab-ce:latest
