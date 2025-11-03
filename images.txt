@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:latest
+redis:7.8.2
