@@ -1,2 +1,1 @@
-redis:7.8
 redis:7.2
